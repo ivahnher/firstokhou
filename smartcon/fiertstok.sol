@@ -1,4 +1,4 @@
-77 version solidity
+// version solidity
 pragma solidity ^0.8.0; 
 // importar otros contratos.
 
